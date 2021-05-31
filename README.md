@@ -2,7 +2,7 @@
 
 I'm a student at the University of Warwick, I love coding and statistics.
 
-Right now my main private project is https://www.rippleit.co.uk, coming soon to campuses. Sign up to claim your username!
+Right now my main private project is [Ripple](https://www.rippleit.co.uk). Sign up to claim your username!
 
 Warwick does not allow public posting of their coursework submissions, so amongst public repos, I also have the following University projects available on request:
 
